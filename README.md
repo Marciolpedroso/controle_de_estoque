@@ -70,5 +70,4 @@ controle_estoque/
 ---
 
 ## Autor
-
-Seu nome aqui — [Seu contato ou link, se quiser]
+Marcio Pedroso
